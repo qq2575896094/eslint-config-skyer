@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-skyer",
+  "version": "1.0.0",
+  "description": "ESLint Shareable Config for skyer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qq2575896094/eslint-config-skyer.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "qq2575896094",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qq2575896094/eslint-config-skyer/issues"
+  },
+  "homepage": "https://github.com/qq2575896094/eslint-config-skyer#readme",
+  "dependencies": {
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^9.1.0"
+  }
+}
